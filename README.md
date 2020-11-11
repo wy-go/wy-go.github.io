@@ -4,7 +4,7 @@ Projects for now: Texturap
 
 ### Texturap
 
-Textured ia a website for researcing applications you want, including mobiles apps, PC apps and online apps
+Textured ia a website for researching applications you want, including mobiles apps, PC apps and online apps
 
 Projects just started.
 
