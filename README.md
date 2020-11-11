@@ -4,7 +4,7 @@ Projects for now: Texturap
 
 ### Texturap
 
-Texturap is a website for researching applications you want, including mobile apps, PC apps and online apps.
+Texturap is a search engine for finding the applications you want, including mobile apps, PC apps and online apps.
 
 Projects just started.
 
