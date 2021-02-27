@@ -2,9 +2,9 @@
 
 Projects for now: Texturap
 
-### Texturap
+### Rapq
 
-Texturap is a search engine for finding the applications you want, including mobile apps, PC apps and online apps.
+Rapq is a search engine for finding the applications you want, including mobile apps, PC apps and online apps.
 
 Projects just started.
 
@@ -14,4 +14,4 @@ For more markdown details see [GitHub Flavored Markdown](https://guides.github.c
 
 QQ: 2568344613
 
-email: wygogo@gmail.com
+email: wanyugogo@gmail.com
