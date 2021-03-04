@@ -5,7 +5,7 @@
 
 ### Papera
 
-Papera is an one-in-all paper reading open scource software of Microsoft.
+Papera is an all-in-one paper reading open scource software of Microsoft.
 
 Current working to improve it!
 
@@ -16,7 +16,6 @@ Rapq is a search engine for finding the applications you want, including mobile 
 
 Projects to be improved.
 
-For more markdown details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
 ### Contact
