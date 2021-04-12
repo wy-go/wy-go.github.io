@@ -1,4 +1,4 @@
-
+![](https://github.com/wy-go/wygp.github.io/main/wyzhao.png)
 # Wynlla Zhao 
 
 I am a 3rd year software engineering undergraduate student at Shandong University, where I have been lucky to be advised by [Weiguo Liu](https://faculty.sdu.edu.cn/liuweiguo1/zh_CN/index/608631/list/index.htm).
