@@ -1,2 +1,10 @@
 title: Wynlla Zhao
-description:
+email: wanyugogo@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Wynlla Zhao from School of Software of Shandong University.
+
+# social links
+twitter_username: wynlla # DO NOT include the @ character, or else the build will fail!
+github_username:  wy-go # DO NOT include the @ character, or else the build will fail!
+
+avatar: "https://github.com/wy-go/wy-go.github.io/blob/main/wyzhao.jpg"
