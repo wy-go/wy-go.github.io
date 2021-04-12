@@ -13,21 +13,21 @@ My research interests lie in deep learning, NLP and quantum computing. My motiva
 
 ## Project
 
-- Papera
+- [Papera](https://github.com/paperadar)
 
   Papera is an all-in-one paper reading open scource software of Microsoft.
 
   Currently working to improve it!
 
 
-- Rapq
+- [Rapq](https://github.com/wy-go/Rapq)
 
   Rapq is a search engine for finding the applications you want, including mobile apps, PC apps and online apps.
 
   Projects to be improved.
 
 
-- MazeGenerator
+- [MazeGenerator](https://github.com/wy-go/MazeGenerator)
 
   Randomly generate a maze of specified size implemented by union-find.
 
