@@ -1,7 +1,11 @@
 ---
 title: "Wynlla Zhao"
-avatar: 
 ---
+
+![avatar](https://github.com/wy-go/wy-go.github.io/blob/main/wyzhao.jpg)
+[Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=wanyugogo@gmail.com) | [LinkedIn](https://www.linkedin.com/in/wyzhao/)
+
+# Wynlla Zhao
 
 I am a 3rd year software engineering undergraduate student at Shandong University, where I have been lucky to be advised by [Weiguo Liu](https://faculty.sdu.edu.cn/liuweiguo1/zh_CN/index/608631/list/index.htm).
 
