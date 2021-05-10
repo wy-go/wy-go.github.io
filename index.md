@@ -49,6 +49,6 @@ My research interests lie in deep learning, NLP and quantum computing. My motiva
 
 ## Essay
 
-- [Stock Market Prediction with NLP (Chinese)](https://raw.github.com/wy-go/wy-go.github.io/main/essay/Stock%20Market%20Prediction%20with%20NLP.pdf)
-- [Graphic Database Overview (Chinese)](https://raw.github.com/wy-go/wy-go.github.io/main/essay/GDB.pdf)
-- [The Influence of Music (English)](https://raw.github.com/wy-go/wy-go.github.io/main/essay/The%20Influence%20of%20Music.pdf)
+- [Stock Market Prediction with NLP (Chinese)](https://drive.google.com/file/d/1kWDqHhkY3dQxDWEwHki2w2sGJcsmBa0U/view?usp=sharing)
+- [Graphic Database Overview (Chinese)](https://drive.google.com/file/d/1XycHj_Y7eR3-96cheVH-7vch0QrbCLTl/view?usp=sharing)
+- [The Influence of Music (English)](https://drive.google.com/file/d/1dKUXeIqX75Y9yWAdef0moNYm0CAfDTKB/view?usp=sharing)
