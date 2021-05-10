@@ -45,4 +45,4 @@ My research interests lie in deep learning, NLP and quantum computing. My motiva
 
 ## Research
 
-- Forecast the Stock tendency using NLP techniques to help with building a quantitative investment platform.
+- Forecast the stock tendency using NLP techniques to help with building a quantitative investment platform.
