@@ -34,7 +34,13 @@ My research interests lie in deep learning, NLP and quantum computing. My motiva
 
 - [MazeGenerator](https://github.com/wy-go/MazeGenerator)
 
-  Randomly generate a maze of specified size implemented by union-find.
+  MazeGenerator randomly generates a maze of specified size implemented by union-find.
+  
+  
+- [ClassChat](https://github.com/wy-go/ClassChat)
+
+  An affair management system for university classes (PC) with basic functions such as instant messaging (private chat and group chat), class announcements, and authority management.
+
 
 
 ## Research
