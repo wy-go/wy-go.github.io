@@ -49,7 +49,7 @@ My research interests lie in deep learning, NLP and quantum computing. My motiva
 
   Forecast the stock tendency using NLP techniques to help with building a quantitative investment platform.
 
-  [AiQu](118.31.7.210/aiqu) is a simple web app to let you try simple AI-oriented quantitative investment models.
+  [AiQu](http://118.31.7.210/aiqu) is a simple web app to let you try simple AI-oriented quantitative investment models.
   
 - [DeeCamp 2021](https://deecamp.com/#/home)
 
