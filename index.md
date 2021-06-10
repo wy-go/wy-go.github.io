@@ -45,7 +45,15 @@ My research interests lie in deep learning, NLP and quantum computing. My motiva
 
 ## Research
 
-- Forecast the stock tendency using NLP techniques to help with building a quantitative investment platform.
+- HPC Lab of SDU
+
+  Forecast the stock tendency using NLP techniques to help with building a quantitative investment platform.
+
+  [AiQu](118.31.7.210/aiqu) is a simple web app to let you try simple AI-oriented quantitative investment models.
+  
+- [DeeCamp 2021](https://deecamp.com/#/home)
+
+  Event extraction of financial documents，trying to solve problems such as scattered arguments and multiple events in a single documents.
 
 ## Essay
 
