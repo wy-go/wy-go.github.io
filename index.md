@@ -8,12 +8,12 @@ title: "Wynlla Zhao"
 
 # Wynlla Zhao
 
-I am a 3rd year software engineering undergraduate student at Shandong University, where I have been lucky to be advised by [Weiguo Liu](https://faculty.sdu.edu.cn/liuweiguo1/zh_CN/index/608631/list/index.htm).
+I am a 4th year software engineering undergraduate student at Shandong University, where I have been lucky to be advised by [Weiguo Liu](https://faculty.sdu.edu.cn/liuweiguo1/zh_CN/index/608631/list/index.htm).
 
 My research interests lie in deep learning, NLP and quantum computing. My motivation is to utilize the cutting-edge technologies to improve the world. 
 
 ## News
-- [March 2021] I passed exam AI-900: Microsoft Azure AI Fundamentals.
+- [March 2021].
 
 
 ## Project
