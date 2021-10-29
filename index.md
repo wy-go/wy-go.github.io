@@ -18,18 +18,22 @@ My research interests lie in big data, neuromorphic computing and machine learni
 
 ## Project
   
-- [SmartRover]() 
+- [Smart Rover]() 
 
-  AiQu a simple web app to try simple AI-oriented quantitative investment models implemented using [Qlib](https://github.com/microsoft/qlib).
+  Designed and developed a smart rover which can follow dedicated paths, cross ramps and bridges, identify colors and move correspondingly, transmit messages to laptops and finally find the arch to stop.
+  
+- [RISC CPU]() 
+
+  Designed a 16-bit CPU which can complete operations including ADD, SUB, AND, OR, XOR, CMP, ACC, JMP, MOV, LDR and STR following FPGA design flow by Verilog on Vivado.
 
 
 ## Research
 
-- , UESTC
+- Human Activity Recognition System Based on HNN, UESTC
 
-  XXX.
+  Designed a real-time and power-efficient embedded system to detect activities including Fall, Stand Up, Sit Down, Under and Walk by using Hopfield neuromorphic computing.
   
 
 ## Essay
 
-- [essay]()
+- []()
