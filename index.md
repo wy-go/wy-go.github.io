@@ -15,6 +15,13 @@ My research interests lie in big data, neuromorphic computing and machine learni
 ## News
 - [March 2021].
 
+## Publications
+
+- [Discussion on the Application Prospects of the Third-generation Solar cell](url)
+
+  Yujie Chen, Ziqian We, Guanxi Jiang
+
+  ISAEECE 2022
 
 ## Project
   
