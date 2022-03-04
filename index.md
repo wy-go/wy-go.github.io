@@ -10,10 +10,10 @@ title: "Wynlla Zhao"
 
 I am a 4th year software engineering undergraduate student at Shandong University, where I have been lucky to be advised by [Weiguo Liu](https://faculty.sdu.edu.cn/liuweiguo1/zh_CN/index/608631/list/index.htm).
 
-My research interests lie in deep learning, NLP and quantum computing. My motivation is to utilize the cutting-edge technologies to improve the world. 
+My research interests lie in efficient deep learning and quantum computing. My motivation is to utilize the cutting-edge technologies to improve the world. 
 
 ## News
-- [March 2021].
+- 
 
 
 ## Project
@@ -25,6 +25,7 @@ My research interests lie in deep learning, NLP and quantum computing. My motiva
 - [Papera](https://github.com/paperadar)
 
   Papera is an all-in-one paper reading open source software which I worked on in Microsoft Elite Class.
+  
   
 - [AiQu](http://118.31.7.210/aiqu) 
 
@@ -65,5 +66,3 @@ My research interests lie in deep learning, NLP and quantum computing. My motiva
 ## Essay
 
 - [The Influence of Music (English)](https://drive.google.com/file/d/1dKUXeIqX75Y9yWAdef0moNYm0CAfDTKB/view?usp=sharing)
-- [Recipe Ingredient Prediction (Chinese)](https://drive.google.com/file/d/1D5zEhkfU--fO_6Kb0_b8cZ8wQX0eUo3C/view?usp=sharing)
-- [Graphic Database Overview (Chinese)](https://drive.google.com/file/d/1XycHj_Y7eR3-96cheVH-7vch0QrbCLTl/view?usp=sharing)
