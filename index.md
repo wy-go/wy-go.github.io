@@ -8,7 +8,7 @@ title: "Wynlla Zhao"
 
 # Wynlla Zhao
 
-I am a 4th year software engineering undergraduate student at Shandong University, where I have been lucky to be advised by [Weiguo Liu](https://faculty.sdu.edu.cn/liuweiguo1/zh_CN/index/608631/list/index.htm).
+I am a 4th year software engineering undergraduate student at Shandong University, where I have been lucky to be advised by [Weiguo Liu](https://faculty.sdu.edu.cn/liuweiguo1/en/index/608648/list/index.htm).
 
 My research interests lie in efficient deep learning and quantum computing. My motivation is to utilize the cutting-edge technologies to improve the world. 
 
@@ -50,7 +50,7 @@ My research interests lie in efficient deep learning and quantum computing. My m
 
 ## Research
 
-- HPC Lab, SDU
+- [HPC Lab](https://www.sc.sdu.edu.cn/info/1011/1002.htm), SDU
 
   Forecast the stock tendency using NLP techniques to help with building a quantitative investment platform.
 
