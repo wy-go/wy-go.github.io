@@ -50,7 +50,7 @@ My research interests lie in efficient deep learning and quantum computing. My m
 
 ## Research
 
-- [HPC Lab](https://www.sc.sdu.edu.cn/info/1011/1002.htm), SDU
+- [High Performance Computing and Big Data Processing Group](https://www.sc.sdu.edu.cn/info/1011/1002.htm), SDU
 
   Forecast the stock tendency using NLP techniques to help with building a quantitative investment platform.
 
@@ -58,9 +58,9 @@ My research interests lie in efficient deep learning and quantum computing. My m
 
   Extract event of financial documents, trying to solve problems such as scattered arguments and multiple events in a single documents.
 
-- Quantum Theorist, PKU
+- [QTheory Group](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm), PKU
 
-  Explore DNN solution of the many-electron Schrödinger equation.
+  Readout error mitigation with neural networks.
   
 
 ## Essay
