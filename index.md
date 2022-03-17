@@ -6,7 +6,7 @@ title: "Wynlla Zhao"
 
 [Email](mailto:wanyugogo@gmail.com) \| [LinkedIn](https://www.linkedin.com/in/wyzhao/)
 
-# Wanyu(Wynlla) Zhao
+# Wanyu (Wynlla) Zhao
 
 I am a 4th year software engineering undergraduate student at Shandong University, where I have been lucky to be advised by [Weiguo Liu](https://faculty.sdu.edu.cn/liuweiguo1/en/index/608648/list/index.htm).
 
