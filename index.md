@@ -2,7 +2,7 @@
 title: "Wynlla Zhao"
 ---
 
-![avatar](https://github.com/wy-go/wy-go.github.io/blob/main/wyzhao2.jpg)
+![avatar](./wyzhao2.jpg)
 
 [Email](mailto:wanyugogo@gmail.com) \| [LinkedIn](https://www.linkedin.com/in/wyzhao/)
 
