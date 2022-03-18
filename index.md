@@ -8,7 +8,7 @@ title: "Wynlla Zhao"
 
 # Wanyu (Wynlla) Zhao
 
-I am a 4th year software engineering undergraduate student at Shandong University, where I have been lucky to be advised by [Weiguo Liu](https://faculty.sdu.edu.cn/liuweiguo1/en/index/608648/list/index.htm).
+I am a 4th year software engineering undergraduate student at Shandong University, where I have been lucky to be advised by [Weiguo Liu](http://www.en.sc.sdu.edu.cn/info/1051/1230.htm) ([刘卫国](https://faculty.sdu.edu.cn/liuweiguo1/en/index/608648/list/index.htm)).
 
 My research interests lie in efficient deep learning, computer architecture and quantum computing. My motivation is to utilize the cutting-edge technologies to improve the world. 
 
