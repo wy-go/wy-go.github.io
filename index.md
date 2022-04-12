@@ -46,7 +46,7 @@ My research interests lie in efficient deep learning, computer architecture and 
 
 ## Research
 
-- [High Performance Computing and Big Data Processing Group](https://www.sc.sdu.edu.cn/info/1011/1002.htm), SDU
+- [High-performance Computing and Big Data Processing Group](https://www.sc.sdu.edu.cn/info/1011/1002.htm), SDU
 
   Forecast the stock tendency using NLP techniques to help with building a quantitative investment platform.
 
