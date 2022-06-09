@@ -2,34 +2,35 @@
 title: "Wynlla Zhao"
 ---
 
-![avatar](https://raw.github.com/wy-go/wy-go.github.io/main/wyzhao.jpg)
+![avatar](./wyzhao2.jpg)
 
-[Email](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=wanyugogo@gmail.com) \| [LinkedIn](https://www.linkedin.com/in/wyzhao/)
+[Email](mailto:wanyugogo@gmail.com) \| [LinkedIn](https://www.linkedin.com/in/wyzhao/)
 
-# Wynlla Zhao
+# Wanyu (Wynlla) Zhao
 
-I am a 3rd year software engineering undergraduate student at Shandong University, where I have been lucky to be advised by [Weiguo Liu](https://faculty.sdu.edu.cn/liuweiguo1/zh_CN/index/608631/list/index.htm).
+I am a 4th year software engineering undergraduate student at Shandong University, where I have been lucky to be advised by [Weiguo Liu](http://www.en.sc.sdu.edu.cn/info/1051/1230.htm) ([刘卫国](https://faculty.sdu.edu.cn/liuweiguo1/en/index/608648/list/index.htm)).
 
-My research interests lie in deep learning, NLP and quantum computing. My motivation is to utilize the cutting-edge technologies to improve the world. 
-
-## News
-- [March 2021] I passed exam AI-900: Microsoft Azure AI Fundamentals.
-
+My research interests lie in efficient deep learning, computer architecture and quantum computing. My motivation is to utilize the cutting-edge technologies to improve the world. 
 
 ## Project
+- [ExAllTrue](https://exalltrue.github.io/eedc4/)
+  
+  ExAllTrue is our demo for Chinese financial document event extraction model in DeeCamp 2021.
+  
 
 - [Papera](https://github.com/paperadar)
 
-  Papera is an all-in-one paper reading open source software of Microsoft.
+  Papera is an all-in-one paper reading open source software which I worked on in Microsoft Elite Class.
+  
+  
+- [AiQu](http://118.31.7.210/aiqu) 
 
-  Currently working to improve it!
+  AiQu a simple web app to try simple AI-oriented quantitative investment models implemented using [Qlib](https://github.com/microsoft/qlib).
 
 
 - [Rapq](https://github.com/wy-go/Rapq)
 
   Rapq is a search engine for finding the applications you want, including mobile apps, PC apps and online apps.
-
-  Projects to be improved.
 
 
 - [MazeGenerator](https://github.com/wy-go/MazeGenerator)
@@ -45,10 +46,19 @@ My research interests lie in deep learning, NLP and quantum computing. My motiva
 
 ## Research
 
-- Forecast the stock tendency using NLP techniques to help with building a quantitative investment platform.
+- [High-performance Computing and Big Data Processing Group](https://www.sc.sdu.edu.cn/info/1011/1002.htm), SDU
+
+  Forecast the stock tendency using NLP techniques to help with building a quantitative investment platform.
+
+- [DeeCamp 2021](https://deecamp.com/#/home)
+
+  Extract event of financial documents, trying to solve problems such as scattered arguments and multiple events in a single documents.
+
+- [QTheory Group](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm), PKU
+
+  Readout error mitigation with neural networks.
+  
 
 ## Essay
 
-- [Stock Market Prediction with NLP (Chinese)](https://raw.github.com/wy-go/wy-go.github.io/main/essay/Stock%20Market%20Prediction%20with%20NLP.pdf)
-- [Graphic Database Overview (Chinese)](https://raw.github.com/wy-go/wy-go.github.io/main/essay/GDB.pdf)
-- [The Influence of Music (English)](https://raw.github.com/wy-go/wy-go.github.io/main/essay/The%20Influence%20of%20Music.pdf)
+- [The Influence of Music (English)](https://drive.google.com/file/d/1dKUXeIqX75Y9yWAdef0moNYm0CAfDTKB/view?usp=sharing)
