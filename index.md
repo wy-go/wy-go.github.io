@@ -15,29 +15,25 @@ My research interests lie in computer systems, machine learning and the intersec
 
 ## Research 
 
-- [PlatformX](https://platformxlab.github.io/), UIUC
+- **Learning-Based Software-Defined Flash Infrastructure**
 
 
 
-- [OptimaLab](http://akyrillidis.github.io/), Rice
+- **Distributed Matrix Completion**
 
+  Learn a rank-r matrix by learning lower rank matrices, distributedly.
 
+- **Adaptive Gradient Communication**
 
-- [High-performance Computing and Big Data Processing Group](https://www.sc.sdu.edu.cn/info/1011/1002.htm), SDU
-
-  Forecast the stock tendency using NLP techniques to help with building a quantitative investment platform.
-
-- [DeeCamp 2021](https://deecamp.com/#/home)
-
-  Extract event of financial documents, trying to solve problems such as scattered arguments and multiple events in a single documents.
+  Adaptively compress gradient for distributed training considering different learning periods, bandwidth conditions and tensor/layer.
 
 
 ## Misc
-I like coding and I'm committed to open source. Here are some of my undergraduate projects.
+I like coding and I'm committed to open source. Here are some of my projects.
 
 - [ExAllTrue](https://exalltrue.github.io/eedc4/)
   
-  ExAllTrue is our demo for Chinese financial document event extraction model in DeeCamp 2021.
+  ExAllTrue is our demo for Chinese financial document event extraction model in [DeeCamp 2021](https://deecamp.com/#/home). We won the second place in the financial track.
   
 
 - [Papera](https://github.com/paperadar)
@@ -59,14 +55,14 @@ I like coding and I'm committed to open source. Here are some of my undergraduat
 
   An affair management system for university classes (PC) with basic functions such as instant messaging (private chat and group chat), class announcements, and authority management.
 
-
-
   
 
 ## About Me
 
-I was born in [Jilin](https://en.wikipedia.org/wiki/Jilin), China.
+- I was born in [Jilin](https://en.wikipedia.org/wiki/Jilin), China.
 
-I love movies and dance (Hiphop and Chinese folk dance).
+- I love movies and dance (Hiphop and [Chinese folk dance](https://www.bilibili.com/video/BV153411w7XD?p=8&vd_source=b9661ae60934cbd7513d5fad3016c0c0)).
 
-My [twin sister](https://WanbingZhao.github.io) works on quantum computing and we both like to stay up late (late night discussions on the bed) .
+- My [twin sister](https://WanbingZhao.github.io) works on quantum computing and we both like to stay up late (late night discussions on the bed) .
+
+- At SDU, I was a one of [ICPC team]() and [High-performance Computing and Big Data Processing Group]().
