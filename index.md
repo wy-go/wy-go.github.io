@@ -1,18 +1,40 @@
 ---
-title: "Wynlla Zhao"
+title: "Wanyu Zhao"
 ---
 
-![avatar](./wyzhao3.jpg)
+![avatar](./wyzhao2.jpg)
 
 [Email](mailto:wanyugogo@gmail.com) \| [LinkedIn](https://www.linkedin.com/in/wyzhao/)
 
-# Wanyu (Wynlla) Zhao
+# Wanyu Zhao 
 
-I am a 4th year software engineering undergraduate student at Shandong University, where I have been lucky to be advised by [Weiguo Liu](http://www.en.sc.sdu.edu.cn/info/1051/1230.htm) ([刘卫国](https://faculty.sdu.edu.cn/liuweiguo1/en/index/608648/list/index.htm)).
+I am an undergraduate researcher at [School of Software, Shandong University](https://www.sc.sdu.edu.cn/index.htm), where I received the B. Eng. degree in 2022. I'm also a research intern at [Systems Platform Research Group (PlatformX)](https://platformxlab.github.io/), UIUC.
 
-My research interests lie in efficient deep learning, computer architecture and quantum computing. My motivation is to utilize the cutting-edge technologies to improve the world. 
+My research interests lie in computer systems, machine learning and the intersection between the two areas. My goal is to build practical and efficient systems (for machine learning and other emerging large-scale workloads).
 
-## Project
+
+## Research 
+
+- [PlatformX](https://platformxlab.github.io/), UIUC
+
+
+
+- [OptimaLab](http://akyrillidis.github.io/), Rice
+
+
+
+- [High-performance Computing and Big Data Processing Group](https://www.sc.sdu.edu.cn/info/1011/1002.htm), SDU
+
+  Forecast the stock tendency using NLP techniques to help with building a quantitative investment platform.
+
+- [DeeCamp 2021](https://deecamp.com/#/home)
+
+  Extract event of financial documents, trying to solve problems such as scattered arguments and multiple events in a single documents.
+
+
+## Misc
+I like coding and I'm committed to open source. Here are some of my undergraduate projects.
+
 - [ExAllTrue](https://exalltrue.github.io/eedc4/)
   
   ExAllTrue is our demo for Chinese financial document event extraction model in DeeCamp 2021.
@@ -21,11 +43,6 @@ My research interests lie in efficient deep learning, computer architecture and 
 - [Papera](https://github.com/paperadar)
 
   Papera is an all-in-one paper reading open source software which I worked on in Microsoft Elite Class.
-  
-  
-- [AiQu](http://118.31.7.210/aiqu) 
-
-  AiQu a simple web app to try simple AI-oriented quantitative investment models implemented using [Qlib](https://github.com/microsoft/qlib).
 
 
 - [Rapq](https://github.com/wy-go/Rapq)
@@ -44,21 +61,12 @@ My research interests lie in efficient deep learning, computer architecture and 
 
 
 
-## Research
-
-- [High-performance Computing and Big Data Processing Group](https://www.sc.sdu.edu.cn/info/1011/1002.htm), SDU
-
-  Forecast the stock tendency using NLP techniques to help with building a quantitative investment platform.
-
-- [DeeCamp 2021](https://deecamp.com/#/home)
-
-  Extract event of financial documents, trying to solve problems such as scattered arguments and multiple events in a single documents.
-
-- [QTheory Group](http://cfcs.pku.edu.cn/english/people/faculty/xiaoyuan/index.htm), PKU
-
-  Readout error mitigation with neural networks.
   
 
-## Essay
+## About Me
 
-- [The Influence of Music (English)](https://drive.google.com/file/d/1dKUXeIqX75Y9yWAdef0moNYm0CAfDTKB/view?usp=sharing)
+I was born in [Jilin](https://en.wikipedia.org/wiki/Jilin), China.
+
+I love movies and dance (Hiphop and Chinese folk dance).
+
+My [twin sister](WanbingZhao.github.io) works on quantum computing and we both like to stay up late (late night discussions on the bed) .
