@@ -65,4 +65,4 @@ I like coding and I'm committed to open source. Here are some of my projects.
 
 - My [twin sister](https://WanbingZhao.github.io) works on quantum computing and we both like to stay up late (late night discussions on the bed) .
 
-- At SDU, I was a one of [ICPC team]([https://github.com/wy-go/wy-go.github.io/blob/main/shandong-icpc19.jpg](https://raw.githubusercontent.com/wy-go/wy-go.github.io/main/shandong-icpc19.jpg)) and [High-performance Computing and Big Data Processing Group](https://raw.githubusercontent.com/wy-go/wy-go.github.io/main/sdu-hpc22.JPG).
+- At SDU, I was a one of [ICPC team](https://raw.githubusercontent.com/wy-go/wy-go.github.io/main/shandong-icpc19.jpg) and [High-performance Computing and Big Data Processing Group](https://raw.githubusercontent.com/wy-go/wy-go.github.io/main/sdu-hpc22.JPG).
