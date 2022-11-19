@@ -69,4 +69,4 @@ I was born in [Jilin](https://en.wikipedia.org/wiki/Jilin), China.
 
 I love movies and dance (Hiphop and Chinese folk dance).
 
-My [twin sister](WanbingZhao.github.io) works on quantum computing and we both like to stay up late (late night discussions on the bed) .
+My [twin sister](https://WanbingZhao.github.io) works on quantum computing and we both like to stay up late (late night discussions on the bed) .
