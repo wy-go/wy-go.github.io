@@ -4,7 +4,7 @@ title: "Wanyu Zhao"
 
 ![avatar](./wyzhao2.jpg)
 
-[Email](mailto:wanyugogo@gmail.com) \| [LinkedIn](https://www.linkedin.com/in/wyzhao/)
+[Email](mailto:wanyugogo@gmail.com) \| [LinkedIn](https://www.linkedin.com/in/wyzhao/?locale=en_US)
 
 # Wanyu Zhao 
 
