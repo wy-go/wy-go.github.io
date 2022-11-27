@@ -16,8 +16,8 @@ My research interests lie in computer systems, machine learning and the intersec
 ## Research 
 
 - **Learning-Based Software-Defined Flash Infrastructure**
-
-
+  
+  Deploy reinforcement learning in SDF management to adapt to dynamically changing storage states and workload patterns.
 
 - **Distributed Matrix Completion**
 
@@ -34,11 +34,6 @@ I like coding and I'm committed to open source. Here are some of my projects.
 - [ExAllTrue](https://exalltrue.github.io/eedc4/)
   
   ExAllTrue is our demo for Chinese financial document event extraction model in [DeeCamp 2021](https://deecamp.com/#/home). We won the second place in the financial track.
-  
-
-- [Papera](https://github.com/paperadar)
-
-  Papera is an all-in-one paper reading open source software which I worked on in Microsoft Elite Class.
 
 
 - [Rapq](https://github.com/wy-go/Rapq)
@@ -65,4 +60,4 @@ I like coding and I'm committed to open source. Here are some of my projects.
 
 - My [twin sister](https://WanbingZhao.github.io) works on quantum computing and we both like to stay up late (late night discussions on the bed) .
 
-- At SDU, I was a one of [ICPC team](https://raw.githubusercontent.com/wy-go/wy-go.github.io/main/shandong-icpc19.jpg) and [High-performance Computing and Big Data Processing Group](https://raw.githubusercontent.com/wy-go/wy-go.github.io/main/sdu-hpc22.JPG).
+- At SDU, I was one of [ICPC team](https://raw.githubusercontent.com/wy-go/wy-go.github.io/main/shandong-icpc19.jpg) and [High-performance Computing and Big Data Processing Group](https://raw.githubusercontent.com/wy-go/wy-go.github.io/main/sdu-hpc22.JPG).
