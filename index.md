@@ -56,8 +56,8 @@ I like coding and I'm committed to open source. Here are some of my projects.
 
 - I was born in [Jilin](https://en.wikipedia.org/wiki/Jilin), China.
 
-- I love movies and dance (Hiphop and [Chinese folk dance](https://www.bilibili.com/video/BV153411w7XD?p=8&vd_source=b9661ae60934cbd7513d5fad3016c0c0)).
+- I love movies, dance (Hiphop and [Chinese folk dance](https://www.bilibili.com/video/BV153411w7XD?p=8&vd_source=b9661ae60934cbd7513d5fad3016c0c0)), and some Chinese traditional musical instruments.
 
-- My [twin sister](https://WanbingZhao.github.io) works on quantum computing and we both like to stay up late (late night discussions on the bed) .
+- My [twin sister](https://WanbingZhao.github.io) works on quantum computing.
 
 - At SDU, I was one of [ICPC team](https://raw.githubusercontent.com/wy-go/wy-go.github.io/main/shandong-icpc19.jpg) and [High-performance Computing and Big Data Processing Group](https://raw.githubusercontent.com/wy-go/wy-go.github.io/main/sdu-hpc22.JPG).
