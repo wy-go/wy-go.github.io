@@ -8,10 +8,14 @@ title: "Wanyu Zhao"
 
 # Wanyu Zhao 
 
-I am an undergraduate researcher at [School of Software, Shandong University](https://www.sc.sdu.edu.cn/index.htm), where I received the B. Eng. degree in 2022. I'm also a research intern at [Systems Platform Research Group (PlatformX)](https://platformxlab.github.io/), UIUC.
+I am an undergraduate researcher at Shandong University, where I received the B. Eng. degree in 2022.
 
 My research interests lie in computer systems, machine learning and the intersection between the two areas. My goal is to build practical and efficient systems (for machine learning and other emerging large-scale workloads).
 
+I am applying for 23Fall PhD, thank you for reaching out!
+
+## News
+- [Feb. 2023] Just finished my research intern at [PlatformX@UIUC](https://platformxlab.github.io/)!
 
 ## Research 
 
