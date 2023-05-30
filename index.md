@@ -4,18 +4,17 @@ title: "Wanyu Zhao"
 
 ![avatar](./wyzhao2.jpg)
 
-[Email](mailto:wanyugogo@gmail.com) \| [LinkedIn](https://www.linkedin.com/in/wyzhao/?locale=en_US)
+[Email](mailto:wanyu2@illinois.edu) \| [LinkedIn](https://www.linkedin.com/in/wyzhao/?locale=en_US)
 
 # Wanyu Zhao 
 
-I am an undergraduate researcher at Shandong University, where I received the B. Eng. degree in 2022.
+I will be pursuing my PhD at UIUC CS.
 
 My research interests lie in computer systems, machine learning and the intersection between the two areas. My goal is to build practical and efficient systems (for machine learning and other emerging large-scale workloads).
 
-I am applying for 23Fall PhD, thank you for reaching out!
-
 ## News
-- [Feb. 2023] Just finished my research intern at [PlatformX@UIUC](https://platformxlab.github.io/)!
+- [Apr. 2023] Going UIUC CS for a PhD!
+- [Feb. 2023] Just finished my research intern at [PlatformX@UIUC](https://platformxlab.github.io/).
 
 ## Research 
 
