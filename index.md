@@ -8,13 +8,12 @@ title: "Wanyu Zhao"
 
 # Wanyu Zhao 
 
-I will be pursuing my PhD at UIUC CS.
+I am a first year CS PhD working with Prof. Charith Mendis.
 
 My research interests lie in computer systems, machine learning and the intersection between the two areas. My goal is to build practical and efficient systems (for machine learning and other emerging large-scale workloads).
 
 ## News
-- [Apr. 2023] Going UIUC CS for a PhD!
-- [Feb. 2023] Just finished my research intern at [PlatformX@UIUC](https://platformxlab.github.io/).
+- [Aug. 2023] Join ADAPT Lab!
 
 ## Research 
 
@@ -26,9 +25,6 @@ My research interests lie in computer systems, machine learning and the intersec
 
   Learn a rank-r matrix by learning lower rank matrices, distributedly.
 
-- **Adaptive Gradient Communication**
-
-  Adaptively compress gradient for distributed training considering different learning periods, bandwidth conditions and tensor/layer.
 
 
 ## Misc
