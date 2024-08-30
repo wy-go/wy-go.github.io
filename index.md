@@ -8,7 +8,7 @@ title: "Wanyu Zhao"
 
 # Wanyu Zhao 
 
-I am a second year PhD at UIUC CS working with Prof. Charith Mendis.
+I am a second year PhD at [UIUC CS](https://siebelschool.illinois.edu/) working with Prof. [Charith Mendis](https://charithmendis.com/).
 
 My research interests lie in computer systems, machine learning and the intersection between the two areas. My goal is to build practical and efficient systems (for machine learning and other emerging large-scale workloads). I'm also interested in applying Machine Learning to System Design.
 
