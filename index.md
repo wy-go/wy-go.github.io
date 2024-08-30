@@ -13,7 +13,7 @@ I am a second year PhD at UIUC CS working with Prof. Charith Mendis.
 My research interests lie in computer systems, machine learning and the intersection between the two areas. My goal is to build practical and efficient systems (for machine learning and other emerging large-scale workloads). I'm also interested in applying Machine Learning to System Design.
 
 ## News
-- [Oct. 2024] I am going a talk at [CIKM24](https://cikm2024.org/).<br/>
+- [Oct. 2024] I am going a give a talk on efficient training of temporal graph neural networks at [CIKM24](https://cikm2024.org/).<br/>
 [[Website](https://wjerry5.github.io/cikm2024-tutorial/)]
 - [Mar. 2024] I gave a talk on TGLite in [Temporal Graph Learning Reading Group](https://cikm2024.org/).<br/>
 [[Video](https://www.youtube.com/watch?v=871k93Kolrg)]
