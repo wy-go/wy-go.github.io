@@ -8,11 +8,16 @@ title: "Wanyu Zhao"
 
 # Wanyu Zhao 
 
-I am a first year PhD at UIUC CS working with Prof. Charith Mendis.
+I am a second year PhD at UIUC CS working with Prof. Charith Mendis.
 
 My research interests lie in computer systems, machine learning and the intersection between the two areas. My goal is to build practical and efficient systems (for machine learning and other emerging large-scale workloads).
 
 ## News
+- [Oct. 2024] I am going a talk at CIKM24.<br/>
+[[Website](https://wjerry5.github.io/cikm2024-tutorial/)]
+- [Mar. 2024] I gave a talk on TGLite.<br/>
+[[Video](https://www.youtube.com/watch?v=871k93Kolrg)]
+- [Apr. 2024] We released the [TGLite](https://charithmendis.com/assets/pdf/asplos24-tglite.pdf) framework for programming temporal GNNs. Check out its [code](https://github.com/ADAPT-uiuc/tglite) and the [documentation](https://tglite.readthedocs.io/en/latest/).
 - [Aug. 2023] Join ADAPT Lab!
 
 ## Research 
