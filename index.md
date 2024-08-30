@@ -10,18 +10,25 @@ title: "Wanyu Zhao"
 
 I am a second year PhD at UIUC CS working with Prof. Charith Mendis.
 
-My research interests lie in computer systems, machine learning and the intersection between the two areas. My goal is to build practical and efficient systems (for machine learning and other emerging large-scale workloads).
+My research interests lie in computer systems, machine learning and the intersection between the two areas. My goal is to build practical and efficient systems (for machine learning and other emerging large-scale workloads). I'm also interested in applying Machine Learning to System Design.
 
 ## News
-- [Oct. 2024] I am going a talk at CIKM24.<br/>
+- [Oct. 2024] I am going a talk at [CIKM24](https://cikm2024.org/).<br/>
 [[Website](https://wjerry5.github.io/cikm2024-tutorial/)]
-- [Mar. 2024] I gave a talk on TGLite.<br/>
+- [Mar. 2024] I gave a talk on TGLite in [Temporal Graph Learning Reading Group](https://cikm2024.org/).<br/>
 [[Video](https://www.youtube.com/watch?v=871k93Kolrg)]
 - [Apr. 2024] We released the [TGLite](https://charithmendis.com/assets/pdf/asplos24-tglite.pdf) framework for programming temporal GNNs. Check out its [code](https://github.com/ADAPT-uiuc/tglite) and the [documentation](https://tglite.readthedocs.io/en/latest/).
-- [Aug. 2023] Join ADAPT Lab!
+- [Aug. 2023] Join [ADAPT@UIUC](https://adapt.cs.illinois.edu/index.html)!
 
-## Research 
+## Research
+- **Large-Scale Temporal Graph Learning**
 
+  Efficient and scalable temporal graph neural network training.
+  
+  User-friendly framework for temporal graph learning.
+  
+
+## Past Research 
 - **Learning-Based Software-Defined Flash Infrastructure**
   
   Deploy reinforcement learning in SDF management to adapt to dynamically changing storage states and workload patterns.
