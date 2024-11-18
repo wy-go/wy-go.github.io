@@ -20,23 +20,19 @@ My research interests lie in computer systems, machine learning, and the interse
 - [Aug. 2023] Join UIUC!
 
 ## Research
-- **Large-Scale Temporal Graph Learning**
+- **Large-Scale Temporal Graph Learning**: Efficient and scalable temporal graph neural network training and user-friendly framework for temporal graph learning.
 
-  Efficient and scalable temporal graph neural network training.
-  
-  User-friendly framework for temporal graph learning.
+  - [In submission] TGCache: Reducing Data Movement for Large Scale Temporal GNN Training
 
-  TGCache: Reducing Data movement for Large Scale Temporal Graph Neural Network Training
-  
-  Wanyu Zhao, Yuhao Ge, Charith Mendis
+    **Zhao, W.**, Ge, Y., Sudusinghe, C., Mendis, C.
 
-  Towards Efficient Temporal Graph Learning: Algorithms, Frameworks, and Tools
+  - [CIKM '24] [Towards Efficient Temporal Graph Learning: Algorithms, Frameworks, and Tools](https://dl.acm.org/doi/pdf/10.1145/3627673.3679104)
   
-  Ruijie Wang, Wanyu Zhao, Dachun Sun, Charith Mendis, Tarek Abdelzaher
+    Wang, R., **Zhao, W.**, Sun, D., Mendis, C., Abdelzaher, T.
 
-  Tgonline: Enhancing temporal graph learning with adaptive online meta-learning
+  - [SIGIR '24] [TGOnline: Enhancing temporal graph learning with adaptive online meta-learning](https://dl.acm.org/doi/pdf/10.1145/3626772.3657791)
   
-  Ruijie Wang, Jingyuan Huang, Yutong Zhang, Jinyang Li, Yufeng Wang, Wanyu Zhao, Shengzhong Liu, Charith Mendis, Tarek Abdelzaher
+    Wang, R., Huang, J., Zhang, Y., Li, J., Wang, Y., **Zhao, W.**, Liu, S., Mendis, C., Abdelzaher, T.
 
 
 ## Misc
