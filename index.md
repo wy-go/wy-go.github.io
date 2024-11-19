@@ -47,7 +47,7 @@ I've been lucky to work with Prof. [Jian Huang](https://jianh.web.engr.illinois.
 
   Learn a rank-r matrix by learning lower rank matrices, distributedly.
 
-I like coding and I'm committed to open source. Some of my past projects include: [ExAllTrue](https://exalltrue.github.io/eedc4/): a demo for Chinese financial document event extraction in [DeeCamp 2021](https://deecamp.com/#/home) (won the second place in the financial track); [Rapq](https://github.com/wy-go/Rapq): a search engine for finding the applications you want, including mobile apps, PC apps, and online apps; [MazeGenerator](https://github.com/wy-go/MazeGenerator): a maze generator; [ClassChat](https://github.com/wy-go/ClassChat): an affair management system for university classes (PC) with basic functions such as instant messaging (private chat and group chat), class announcements, and authority management.
+I like coding and I'm committed to open source. Some of my past projects include: [ExAllTrue](https://exalltrue.github.io/eedc4/) (won the second place in the financial track of [DeeCamp 2021](https://deecamp.com/#/home)), [Rapq](https://github.com/wy-go/Rapq), [MazeGenerator](https://github.com/wy-go/MazeGenerator), and [ClassChat](https://github.com/wy-go/ClassChat).
 
   
 
