@@ -14,10 +14,10 @@ My research interests lie in computer systems, machine learning, and the interse
 
 
 ## News
-- [Oct. 2024] I gave a talk on [Optimizing TGNN Training and Inference](https://drive.google.com/file/d/1EVc_OBqyg3itZP3mvbkEruCM58y1o5qe/view) at [UIUC compiler seminar](https://compilerseminar.web.illinois.edu/).
-- [Oct. 2024] I co-hosted a tutorial session on [Efficient Temporal Graph Learning](https://wjerry5.github.io/cikm2024-tutorial/) at [CIKM '24](https://cikm2024.org/).
-- [Mar. 2024] I gave a talk on [Optimizing TGNN Training and Inference](https://www.youtube.com/watch?v=871k93Kolrg) in [Temporal Graph Learning Reading Group](https://www.cs.mcgill.ca/~shuang43/rg.html).
-- [Apr. 2024] We released the [TGLite](https://charithmendis.com/assets/pdf/asplos24-tglite.pdf) framework for programming temporal GNNs. Check out its [code](https://github.com/ADAPT-uiuc/tglite) and [documentation](https://tglite.readthedocs.io/en/latest/).
+- [Oct. 2024] I gave a talk on optimizing TGNN training and inference at UIUC compiler seminar. [[video](https://drive.google.com/file/d/1EVc_OBqyg3itZP3mvbkEruCM58y1o5qe/view)]
+- [Oct. 2024] I co-hosted a tutorial session on efficient temporal graph learning at CIKM '24. [[tutorial website](https://wjerry5.github.io/cikm2024-tutorial/)]
+- [Mar. 2024] I gave a talk on optimizing TGNN training and inference in TGL Group. [[video](https://www.youtube.com/watch?v=871k93Kolrg)]
+- [Apr. 2024] We released the *TGLite* framework for programming temporal GNNs. [[code](https://github.com/ADAPT-uiuc/tglite)] [[documentation](https://tglite.readthedocs.io/en/latest/)]
 - [Aug. 2023] Join UIUC!
 
 ## Research
