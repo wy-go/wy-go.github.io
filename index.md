@@ -14,13 +14,14 @@ My research interests lie in computer systems, machine learning, and the interse
 
 
 ## News
-- [Oct. 2024] I gave a [tutorial on efficient training of temporal graph neural networks](https://wjerry5.github.io/cikm2024-tutorial/) at [CIKM24](https://cikm2024.org/).
-- [Mar. 2024] I gave a [talk](https://www.youtube.com/watch?v=871k93Kolrg) on TGLite in [Temporal Graph Learning Reading Group](https://cikm2024.org/).
+- [Oct. 2024] I gave a talk on [Optimizing TGNN Training and Inference](https://drive.google.com/file/d/1EVc_OBqyg3itZP3mvbkEruCM58y1o5qe/view) at [UIUC compiler seminar](https://compilerseminar.web.illinois.edu/).
+- [Oct. 2024] We are holding a tutorial session on [Efficient Temporal Graph Learning](https://wjerry5.github.io/cikm2024-tutorial/) at [CIKM '24](https://cikm2024.org/).
+- [Mar. 2024] I gave a talk on [Optimizing TGNN Training and Inference](https://www.youtube.com/watch?v=871k93Kolrg) in [Temporal Graph Learning Reading Group](https://www.cs.mcgill.ca/~shuang43/rg.html).
 - [Apr. 2024] We released the [TGLite](https://charithmendis.com/assets/pdf/asplos24-tglite.pdf) framework for programming temporal GNNs. Check out its [code](https://github.com/ADAPT-uiuc/tglite) and [documentation](https://tglite.readthedocs.io/en/latest/).
 - [Aug. 2023] Join UIUC!
 
 ## Research
-- **Large-Scale Temporal Graph Learning**: Efficient and scalable temporal graph neural network training and user-friendly framework for temporal graph learning.
+- **Efficient Temporal Graph Learning**: with an emphasis on efficient and scalable temporal graph neural network (TGNN) training and the development of user-friendly frameworks for temporal graph learning.
 
   - [In submission] TGCache: Reducing Data Movement for Large Scale Temporal GNN Training
 
@@ -30,13 +31,13 @@ My research interests lie in computer systems, machine learning, and the interse
   
     Wang, R., **Zhao, W.**, Sun, D., Mendis, C., Abdelzaher, T.
 
-  - [SIGIR '24] [TGOnline: Enhancing temporal graph learning with adaptive online meta-learning](https://dl.acm.org/doi/pdf/10.1145/3626772.3657791)
+  - [SIGIR '24] [TGOnline: Enhancing Temporal Graph Learning with Adaptive Online Meta-learning](https://dl.acm.org/doi/pdf/10.1145/3626772.3657791)
   
     Wang, R., Huang, J., Zhang, Y., Li, J., Wang, Y., **Zhao, W.**, Liu, S., Mendis, C., Abdelzaher, T.
 
 
 ## Misc
-I've been lucky to work with Prof. [Jian Huang](https://jianh.web.engr.illinois.edu/) at UIUC and Prof. [Anastasios Kyrillidis](https://akyrillidis.github.io/about/) at Rice University during undergrad:
+I've been lucky to work with Prof. [Jian Huang](https://jianh.web.engr.illinois.edu/) at UIUC and Prof. [Anastasios Kyrillidis](https://akyrillidis.github.io/about/) at Rice University during my undergrad:
 
 - **Learning-Based Software-Defined Flash Infrastructure**
   
