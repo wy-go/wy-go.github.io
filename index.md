@@ -37,15 +37,7 @@ My research interests lie in computer systems, machine learning, and the interse
 
 
 ## Misc
-I've been lucky to work with Prof. [Jian Huang](https://jianh.web.engr.illinois.edu/) at UIUC and Prof. [Anastasios Kyrillidis](https://akyrillidis.github.io/about/) at Rice University during my undergrad:
-
-- **Learning-Based Software-Defined Flash Infrastructure**
-  
-  Deploy reinforcement learning in SDF management to adapt to dynamically changing storage states and workload patterns.
-
-- **Distributed Matrix Completion**
-
-  Learn a rank-r matrix by learning lower rank matrices, distributedly.
+I've been lucky to work with Prof. [Jian Huang](https://jianh.web.engr.illinois.edu/) on learning-based software-defined flash infrastructure at UIUC and Prof. [Anastasios Kyrillidis](https://akyrillidis.github.io/about/) on distributed matrix completion at Rice University during my undergrad.
 
 I like coding and I'm committed to open source. Some of my past projects include: [ExAllTrue](https://exalltrue.github.io/eedc4/) (won the second place in the financial track of [DeeCamp 2021](https://deecamp.com/#/home)), [Rapq](https://github.com/wy-go/Rapq), [MazeGenerator](https://github.com/wy-go/MazeGenerator), and [ClassChat](https://github.com/wy-go/ClassChat).
 
@@ -53,8 +45,6 @@ I like coding and I'm committed to open source. Some of my past projects include
 
 ## About Me
 
-- I was born in [Jilin](https://en.wikipedia.org/wiki/Jilin), China.
-
 - I love music. I am an amateur dancer (Hiphop, Chinese folk dance, Latin, Ballet). I also play some Chinese traditional musical instruments.
 
-- My [twin sister](https://WanbingZhao.github.io) works on quantum computing.
+- My [twin sister](https://WanbingZhao.github.io) works on quantum information theory.
