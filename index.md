@@ -10,7 +10,11 @@ title: "Wanyu Zhao"
 
 I am a second-year PhD at [UIUC CS](https://siebelschool.illinois.edu/), advised by Prof. [Brighten Godfrey](https://pbg.cs.illinois.edu/).  I’ve also had the privilege of working with Prof. [Charith Mendis](https://charithmendis.com/).
 
-My research interests lie in computer systems, machine learning, and the intersection between the two areas. My goal is to build practical and efficient systems (including machine learning and other emerging large-scale workloads). My recent research focuses on applying Machine Learning to System Design. I'm part of [LDOS](https://ldos.utexas.edu/), where we are building the next-generation Machine Learning-based Operating System to drive computing infrastructure toward high efficiency and performance.
+My research interests lie in computer systems, machine learning, and the intersection between the two areas. I've built practical and efficient systems for machine learning (Sys4ML). My recent research focuses on applying machine learning to systems design (ML4Sys).
+
+I’m excited about opportunities where ML not only outperforms traditional heuristics but also unlocks system designs once unimaginable. From advancing ML techniques--such as explainability and eﬃciency--to designing next-generation system architecture integrating ML, I hope ML advancements will drive continuous progress in computer systems, much like Moore’s Law fueled decades of progress.
+
+I'm part of [LDOS](https://ldos.utexas.edu/), where we are building the next-generation Machine Learning-based Operating System to drive computing infrastructure toward high efficiency and performance.
 
 ## News
 - [Oct. 2024] I gave a talk on optimizing TGNN training and inference at UIUC compiler seminar. [[video](https://drive.google.com/file/d/1EVc_OBqyg3itZP3mvbkEruCM58y1o5qe/view)]
