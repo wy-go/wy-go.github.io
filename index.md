@@ -2,7 +2,9 @@
 title: "Wanyu Zhao"
 ---
 
-<img src="./wyzhao.jpg" alt="avatar" style="max-width: 40%; height: auto;" />
+<div style="max-width: 400px;">
+  <img src="./wyzhao.jpg" alt="avatar" style="width: 35%; height: auto;" />
+</div>
 
 [Email](mailto:wanyu2@illinois.edu) \| [LinkedIn](https://www.linkedin.com/in/wyzhao/?locale=en_US) \| [Google Scholar](https://scholar.google.com/citations?user=Uung-WsAAAAJ&hl=en)
 
