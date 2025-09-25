@@ -14,7 +14,7 @@ I am a second-year PhD at [UIUC CS](https://siebelschool.illinois.edu/), advised
 
 My research interests lie in computer systems, machine learning, and the intersection between the two areas. I've built practical and efficient systems for machine learning (Sys4ML). My recent research focuses on applying machine learning to systems design (ML4Sys).
 
-I’m excited about opportunities where ML not only outperforms traditional heuristics but also unlocks system designs once unimaginable. From advancing ML techniques--such as explainability and eﬃciency--to designing next-generation system architecture integrating ML, I hope ML advancements will drive continuous progress in computer systems, much like Moore’s Law fueled decades of progress.
+I’m excited about opportunities where ML not only outperforms traditional heuristics but also unlocks system designs once unimaginable. From advancing ML techniques--such as eﬃciency and reliability--to designing next-generation system architecture integrating ML, I hope ML advancements will drive continuous progress in computer systems, much like Moore’s Law fueled decades of progress.
 
 I'm part of [LDOS](https://ldos.utexas.edu/), where we are building the next-generation Machine Learning-based Operating System to drive computing infrastructure toward high efficiency and performance.
 
